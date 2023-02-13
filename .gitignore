@@ -1,0 +1,6 @@
+*.pth
+*.pkl
+*.npy
+/our_data
+data/
+*.zip
